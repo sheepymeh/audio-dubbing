@@ -1,0 +1,6 @@
+torch
+torchaudio
+elevenlabs
+speechbrain
+pydub
+faster-whisper
